@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+   background-color: white;
+   border-radius: 5px; 
+   text-decoration: none; 
+   color: black;
+   padding: 2px;
+   margin: 15px;
+}
+
+.link-nav_1 {
+   background-color: white;
+   border-radius: 5px; 
+   text-decoration: none; 
+   color: black;
+   padding: 2px;
+   margin: 15px 2px 15px 15px;
+}
+
+.link-nav_2 {
+   background-color: white;
+   border-radius: 5px; 
+   text-decoration: none; 
+   color: black;
+   padding: 2px;
+   margin: 15px 15px 15px 2px;
+}
+
+.link_for_start {
+   background-color: lightcoral;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+
+.other_links {
+   background-color: lightcoral;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+
+h1 {
+   color: rgb(85, 174, 204);
+   text-align: center;
+}
+
+main p {
+   margin-left: 20px;
+}
+
+.social {
+   margin-left: 20px;
+}
